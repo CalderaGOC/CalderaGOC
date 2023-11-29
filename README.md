@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @CalderaGOC
 - 👀 I’m interested in Learning DevOps and Programming 
 - 🌱 I’m currently learning MVC .Net C# programming 
-- 💞️ I’m looking to collaborate on C#, VB, Java and JS code
+- 💞️ I’m looking to collaborate on C#, VB, Java and JS code, Python
+- Now I am learning Golang!
 - 📫 You can reach me whenever you need
 
 <!---
